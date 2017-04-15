@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "19836390C2AFB5AB0E5EB77DF105441E0FC42501",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "19836390C2AFB5AB0E5EB77DF105441E0FC42501" : 9223372036854775807,
+    "766B6C663E48A898836FE0A30D88BF2B4B5EE82D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7C058B36-AEC0-4D2E-9655-3E9E4981A067",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "19836390C2AFB5AB0E5EB77DF105441E0FC42501" : "recoding%20diet\/",
+    "766B6C663E48A898836FE0A30D88BF2B4B5EE82D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "recoding diet",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "recoding diet.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/handa18km\/diet.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "19836390C2AFB5AB0E5EB77DF105441E0FC42501"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/handa18km\/portfolio.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "766B6C663E48A898836FE0A30D88BF2B4B5EE82D"
+    }
+  ]
+}
